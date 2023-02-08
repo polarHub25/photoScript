@@ -10,8 +10,7 @@ node.js를 활용하여 사진 파일 분류 하는 스크립트! 😄
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=black)
 
 ### 키워드 🌱
- - mkdirSync / mkdir 차이점은? 
- - 정규식 표현의 종류는?
+
 <!--
 
 <img alt="Java" src ="https://img.shields.io/badge/JAVA-3776AB.svg?&style=for-the-badge&logo=JAVA&logoColor=White"/>
